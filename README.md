@@ -6,5 +6,7 @@ Now,it automatically open the CONTROL PPANEL. If it doesn't you can see it in th
 
 At last you have to take all your PHP files to the HTDOCS folder located inside the C:Drive's XAMPP folder where the file path is C:\xampp\htdocs. All the implemented web app pages should be with ".php" extension. Now open up the WEB BROWSER and type localhost:portnumber. (You can write any port number recorded in the PID in the control panel next to the GREEN apache tag. Now you will be able to see a list of folders and files stored inside HTDOCS folder. Now click the php file and run.
 
+You can find the loginHome.php as the index or the home page to start with. :)
+
 Thats it! ENJOY!!!
 
